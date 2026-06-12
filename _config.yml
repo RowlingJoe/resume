@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "周乐林 - 前端工程师简历"
+description: "10年前端开发经验，擅长Vue生态、TypeScript、数据可视化"
 
 # Build settings
 markdown: kramdown
@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "周乐林"
+resume_title:                   "Web前端开发经理"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "zhoulelin0824@163.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "15150610670"
+resume_contact_address:         "合肥"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "合肥 • 15150610670 • zhoulelin0824@163.com"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>10年前端开发经验，熟练掌握Vue3+TypeScript+Vite技术栈，主导过多个大型项目重构。擅长封装高复用性组件库、数据可视化开发、多端统一开发。具备团队管理经验，熟悉敏捷开发流程。有丰富的公安/刑侦类业务系统开发经验，主导过系统国际化适配。</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -43,17 +43,13 @@ resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
-# uncomment the options you wish to display, and add your own URL
+# 请根据实际情况更新这些链接
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      true
+  # resume_github_url:            "https://github.com/yourusername"
+  # resume_linkedin_url:          "https://www.linkedin.com/in/yourprofile"
+  # resume_website_url:           "http://yourwebsite.com"
+  resume_contact_email:          "zhoulelin0824@163.com"
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default

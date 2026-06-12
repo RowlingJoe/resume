@@ -1,12 +1,29 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# 技能特长
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# 前端框架与生态
+- skill: 前端框架与生态
+  description: 熟悉 Vue 生态体系，主导过多个基于 Vue3 + TypeScript + Vite 的大型重构项目，擅长封装高复用性业务组件库，通过自定义指令和Mixin优化代码结构。
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# UI框架与组件库
+- skill: UI框架与组件库
+  description: 熟练掌握主流 UI 框架及插件，B 端常用 Ant Design Vue / Element Plus，C 端/移动端常用 Vant / Bootstrap，能够快速搭建高质量用户界面。
+
+# 数据可视化
+- skill: 数据可视化
+  description: 熟练使用 ECharts / AntV 进行数据可视化开发，有丰富的图表展示和大数据看板开发经验，能够将数据以直观、美观的方式呈现。
+
+# JavaScript基础
+- skill: JavaScript基础
+  description: 熟练使用原生 JavaScript，熟悉原型、面向对象编程思想，对 JavaScript 中的原型对象、原型链、作用域链、闭包、回调、沙箱等有深刻的理解。
+
+# 多端开发与移动端
+- skill: 多端开发与移动端
+  description: 熟练使用 uni-app 进行多端及小程序统一开发；拥有丰富的 Cordova / Hybrid App 开发经验，擅长处理原生交互桥接（JSBridge）、多版本兼容及离线缓存策略。
+
+# 工具与工程化
+- skill: 工具与工程化
+  description: 熟练使用 git、svn 管理代码，使用 trae、copilot、qode等AI编辑器辅助开发；熟悉 Linux 常用操作，使用 esxi 等工具拆分物理服务器并部署项目；熟练使用 WebSocket 与服务端进行通信。
+
+# 国际化与特殊场景
+- skill: 国际化与复杂场景
+  description: 具备大型系统国际化（i18n）经验，主导过系统从中文到阿拉伯语/法语的适配，解决 RTL（右向左）、时区转换及字符编码等复杂兼容性问题；可使用 WebGL / Three.js 进行 3D 可视化开发。

@@ -1,13 +1,16 @@
-# Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+# 教育背景
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+# 甘肃农业大学
+- degree: 本科
+  uni: 甘肃农业大学
+  year: 2012 &mdash; 2016
+  awards:
+    - award: 统招本科
+  summary: 计算机相关专业，在校期间系统学习了软件开发相关知识，为后续前端开发工作打下坚实基础。
+
+# 高中
+# - degree: 高中
+#   uni: 待补充
+#   year: 2009 &mdash; 2012
+#   award: 
+#   summary: 

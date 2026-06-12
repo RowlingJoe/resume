@@ -1,19 +1,49 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# 工作经历
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# 北京海鑫科金高科技股份有限公司
+- company: 北京海鑫科金高科技股份有限公司
+  position: 开发经理
+  duration: 2021.5 &mdash; 2025.12
+  summary: |
+    <ul class="resume-item-list">
+      <li>负责公安/刑侦类核心业务系统的Web端、平板端及小程序全栈式开发</li>
+      <li>负责现场复杂环境（电子签章、GIS地图、VR全景）的技术集成与调试</li>
+      <li>负责前端开发管理，制定代码规范，评审需求确保需求的准确性与完整性</li>
+      <li>对需求工作量评估及工作安排，执行Code Review，提升团队交付质量</li>
+      <li>成功带领团队封装自有UI组件库，统一公司组件规范</li>
+      <li>负责项目人员招聘工作</li>
+    </ul>
 
+# 安徽中科数盾科技有限公司
+- company: 安徽中科数盾科技有限公司
+  position: 前端开发组长
+  duration: 2020.2 &mdash; 2021.5
+  summary: |
+    <ul class="resume-item-list">
+      <li>负责移动警务管理平台的Web/H5/小程序多端开发与维护</li>
+      <li>设计并落地移动端与原生App的高效通信协议，优化数据同步机制</li>
+      <li>解决监狱/警务内网环境下的兼容性问题及硬件设备对接难题</li>
+    </ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# 蚂蚁互联科技有限公司
+- company: 蚂蚁互联科技有限公司
+  position: Web前端
+  duration: 2018.6 &mdash; 2019.8
+  summary: |
+    <ul class="resume-item-list">
+      <li>系统管理平台的开发与维护</li>
+      <li>项目业务逻辑及技术方案的确定</li>
+      <li>查看并规范组员代码质量</li>
+      <li>项目部署</li>
+    </ul>
+
+# 天地群网科技有限公司
+- company: 天地群网科技有限公司
+  position: Web前端
+  duration: 2016.09 &mdash; 2018.5
+  summary: |
+    <ul class="resume-item-list">
+      <li>微信公众号的维护与开发</li>
+      <li>核心产品app的开发</li>
+      <li>与合作方技术人员进行相关方案的探讨</li>
+    </ul>

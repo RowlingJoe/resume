@@ -1,16 +1,95 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
+# 项目经验
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# 刑事技术一体化实战应用平台
+- project: 刑事技术一体化实战应用平台
+  role: 开发经理
+  duration: 2021.5 &mdash; 2025.12
+  description: |
+    <p><strong>项目描述：</strong>此项目是帮助刑事警察进行案件录入侦破的一体化平台。使用uaop为整体外部框架，内部由多个子系统构成（现勘、技术管理、质量管理、大屏、sso、质量检查等）。通过终端快勘快速将现场案情录入系统，再在平台对数据进行收集、整理、分析。实现对案件数据的全流程保存，数据挖掘，串并案分析，通过现场打点、多平台联动、指纹比对、在线签章、vr现场回看等辅助民警工作，同时还支撑公安部对各级单位的季度、年度考核任务等其他平台业务；平台已覆盖全国31个省市地区且系统出口至澳门、阿尔及利亚、智利等海外国家地区。</p>
+    <p><strong>项目职责：</strong></p>
+    <ul class="resume-item-list">
+      <li>开发业务中的公共服务组件</li>
+      <li>与三方开发人员进行外部业务的调试</li>
+      <li>使用H5开发终端部分业务，减少终端业务操作</li>
+      <li>分发组内开发任务并review组内代码</li>
+      <li>带领研发组完成多个子系统的开发（现勘、串并分析、质量检查等）</li>
+    </ul>
+    <p><strong>技术成果：</strong></p>
+    <ul class="resume-item-list">
+      <li>性能优化：通过路由懒加载、组件异步加载、图片压缩等手段，首屏加载时间从4秒降至1.8秒</li>
+      <li>实时通信：基于websocket实现案件消息实时推送，支持5000+并发连接</li>
+      <li>地图交互：使用WebGL技术将案发现场地理位置相关信息在地图上进行自定义显示、统计各区域案件数量，进行不同地图层级的交互</li>
+      <li>可视化大屏：使用echarts + d3.js构建多维度数据看板，提供10+种分析图表</li>
+      <li>使用fabric.js技术将指纹比对软件在线化，增加系统集成度</li>
+    </ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# 移动警务管理大平台
+- project: 移动警务管理大平台
+  role: 前端开发组长
+  duration: 2020.2 &mdash; 2021.5
+  description: |
+    <p><strong>项目描述：</strong>此项目是配合移动警务终端对监狱民警和罪犯进行管控及日常办公。通过高德地图将监狱内物联网基站获取到的信息实时展示在管理界面、通过终端gps定位信息对押运轨迹进行全流程监控等其他平台业务。</p>
+    <p><strong>项目职责：</strong></p>
+    <ul class="resume-item-list">
+      <li>根据业务逻辑与后台进行数据交互和页面开发</li>
+      <li>与中信开发人员进行外部业务的调试</li>
+      <li>使用H5开发终端部分业务，减少终端业务操作</li>
+    </ul>
+    <p><strong>使用技术：</strong>Vue 及周边生态、amap、node、websocket、echarts</p>
+
+# 服务器管理系统
+- project: 服务器管理系统
+  role: Web前端
+  duration: 2018.6 &mdash; 2019.3
+  description: |
+    <p><strong>项目描述：</strong>此项目是给中国移动合作开发的用于统计监测服务器的系统，系统功能包括服务器管理、资源监测、风险预警、授权管理、资源配置、大屏监测等。</p>
+    <p><strong>项目职责：</strong></p>
+    <ul class="resume-item-list">
+      <li>根据业务逻辑与后台进行数据交互和页面开发并控制不同用户可查看的页面权限</li>
+      <li>根据业务组织研讨相关技术方案</li>
+    </ul>
+    <p><strong>使用技术：</strong>Vue 及周边生态、echarts、websocket</p>
+
+# 信通院实名认证统计查询系统
+- project: 信通院实名认证统计查询系统
+  role: Web前端
+  duration: 2018.6 &mdash; 2019.3
+  description: |
+    <p><strong>项目描述：</strong>此项目是与中国电信研究院合作开发的用于统计查看并检查全国各省市运营商的开卡用户实名认证信息系统。可在此系统查看实名数据统计情况、配置统计规则、阈值告警、业务审批等操作。</p>
+    <p><strong>项目职责：</strong></p>
+    <ul class="resume-item-list">
+      <li>根据业务逻辑与后台进行数据交互和页面开发并控制不同用户可查看的页面权限</li>
+      <li>与信通院开发人员进行核心业务的测试</li>
+      <li>根据业务组织研讨相关技术方案</li>
+      <li>与客户沟通对接需求</li>
+    </ul>
+    <p><strong>使用技术：</strong>Vue 及周边生态、echarts、node、pm2</p>
+
+# 如e课堂平板APP
+- project: 如e课堂平板APP
+  role: Web前端
+  duration: 2016.10 &mdash; 2018.02
+  description: |
+    <p><strong>项目描述：</strong>如e课堂APP是一款基于Cordova的混合式APP，能够将前端JS代码打包成APP在移动设备上运行，对于调取设备的API如拍照、录音、摄像等可使用Cordova相关插件进行操作。课堂上老师可以使用如e课堂与学生进行互动教学如抢答、拍照、出题等，记录学生的行为传给后端数据库进行后期数据分析；也可以播放老师的课件并进行相关操作。</p>
+    <p><strong>项目职责：</strong></p>
+    <ul class="resume-item-list">
+      <li>根据设计图，快速布局APP结构</li>
+      <li>使用Cordova的插件调用设备的API</li>
+      <li>运用Angular双向绑定数据</li>
+      <li>使用web图标和精灵图加快APP对代码的响应速度</li>
+    </ul>
+    <p><strong>使用技术：</strong>Angular.js、Cordova</p>
+
+# 如e教育微信公众号
+- project: 如e教育微信公众号
+  role: Web前端
+  duration: 2016.10 &mdash; 2018.02
+  description: |
+    <p><strong>项目描述：</strong>如e教育微信公众号是上一开发人员基于.net进行开发的，我在此基础上进行后续开发。老师上课使用如e课堂APP后，下课可接收到此微信公众号的推送消息，老师可通过此公众号查看课堂信息，校长可通过此公众号查看全校统计信息。</p>
+    <p><strong>项目职责：</strong></p>
+    <ul class="resume-item-list">
+      <li>调取微信js_sdk完成相关业务功能</li>
+      <li>使用模板消息向用户推送消息</li>
+      <li>使用MUI开发相关业务服务</li>
+    </ul>
+    <p><strong>使用技术：</strong>.net、echarts、jquery</p>

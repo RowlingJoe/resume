@@ -1,5 +1,17 @@
-# links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+# 联系方式与社交链接
+
+- url: "mailto:zhoulelin0824@163.com"
+  description: "邮箱：zhoulelin0824@163.com"
+
+- url: "tel:15150610670"
+  description: "手机：15150610670"
+
+# 请根据实际情况取消注释并添加以下链接
+# - url: "https://github.com/yourusername"
+#   description: "GitHub"
+#
+# - url: "https://www.linkedin.com/in/yourprofile"
+#   description: "LinkedIn"
+#
+# - url: "http://yourwebsite.com"
+#   description: "个人网站"
