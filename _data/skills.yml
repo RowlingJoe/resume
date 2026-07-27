@@ -4,6 +4,14 @@
 - skill: 前端框架与生态
   description: 熟悉 Vue 生态体系，主导过多个基于 Vue3 + TypeScript + Vite 的大型重构项目，擅长封装高复用性业务组件库，通过自定义指令和Mixin优化代码结构。
 
+# AI辅助开发与工程效能
+- skill: AI辅助开发与工程效能
+  description: AI 辅助开发实践：将 AI-Skills 深度融入日常前端开发工作流，通过自然语言交互快速生成业务组件与页面脚手架。自动化代码审查：在团队内推行并落地 AI-Code-Review 机制，对日常代码提交进行规范检查与潜在风险扫描。
+
+# Web标准与页面构建
+- skill: Web标准与页面构建
+  description: 熟知 W3C 标准及规范，熟练应用 Html5 + CSS3 构建页面并快速独立完成网页切图，注重语义化标记与可访问性。
+
 # UI框架与组件库
 - skill: UI框架与组件库
   description: 熟练掌握主流 UI 框架及插件，B 端常用 Ant Design Vue / Element Plus，C 端/移动端常用 Vant / Bootstrap，能够快速搭建高质量用户界面。
@@ -26,4 +34,5 @@
 
 # 国际化与特殊场景
 - skill: 国际化与复杂场景
-  description: 具备大型系统国际化（i18n）经验，主导过系统从中文到阿拉伯语/法语的适配，解决 RTL（右向左）、时区转换及字符编码等复杂兼容性问题；可使用 WebGL / Three.js 进行 3D 可视化开发。
+  description: 具备大型系统国际化（i18n）经验，主导过系统从中文到阿拉伯语/法语的适配，解决 RTL（右向左）、时区转换及字符编码等复杂兼容性问题；可使用 WebGL / Three.js 进行 3D 可视化开发，熟悉 jQuery、Zepto、Fabric.js 等经典 JS 库。
+

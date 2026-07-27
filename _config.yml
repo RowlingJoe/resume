@@ -13,6 +13,15 @@ resume_avatar:                  "true"
 resume_name:                    "周乐林"
 resume_title:                   "Web前端开发经理"
 
+# Personal info (from Word document)
+resume_gender:                  "男"
+resume_birthdate:               "1993.9"
+resume_experience_years:        "10年"
+resume_education_level:         "统招本科"
+resume_work_status:             "离职"
+resume_career_industry:         "实体/互联网/移动互联网/计算机软件"
+resume_career_position:         "Web前端"
+
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "zhoulelin0824@163.com"
 
@@ -23,7 +32,7 @@ resume_contact_address:         "合肥"
 resume_header_contact_info:     "合肥 • 15150610670 • zhoulelin0824@163.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>10年前端开发经验，熟练掌握Vue3+TypeScript+Vite技术栈，主导过多个大型项目重构。擅长封装高复用性组件库、数据可视化开发、多端统一开发。具备团队管理经验，熟悉敏捷开发流程。有丰富的公安/刑侦类业务系统开发经验，主导过系统国际化适配。</p>"
+resume_header_intro: "<p>10年前端开发经验，熟练使用AI工具辅助开发，熟练掌握Vue3+TypeScript+Vite技术栈，主导过多个大型项目重构。擅长封装高复用性组件库、数据可视化开发、多端统一开发。具备团队管理经验，熟悉敏捷开发流程。有丰富的公安/刑侦类业务系统开发经验，主导过系统国际化适配。</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,9 +54,9 @@ resume_section_associations:    true
 # Resume social links
 # 请根据实际情况更新这些链接
 resume_social_links:
-  # resume_github_url:            "https://github.com/yourusername"
+  # resume_github_url:            "https://github.com/zhoulelin0824"
   # resume_linkedin_url:          "https://www.linkedin.com/in/yourprofile"
-  # resume_website_url:           "http://yourwebsite.com"
+  resume_github_url:             "rowlingjoe.github.io"
   resume_contact_email:          "zhoulelin0824@163.com"
 resume_print_social_links:      false
 

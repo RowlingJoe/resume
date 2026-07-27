@@ -40,20 +40,74 @@
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
-        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
+        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">联系我</a>
         {% elsif site.resume_looking_for_work == 'no' %}
-        <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
+        <a class="contact-button not-looking no-print">目前暂不考虑新机会</a>
         {% else %}
         {% endif %}
 
       </header>
+
+      {% if site.resume_gender or site.resume_birthdate or site.resume_experience_years or site.resume_work_status or site.resume_career_industry or site.resume_career_position %}
+      <!-- begin Personal Info -->
+      <section class="content-section personal-info-section">
+        <header class="section-header">
+          <h2>个人概况</h2>
+        </header>
+        <div class="personal-info-grid">
+          {% if site.resume_gender %}
+          <div class="info-item">
+            <span class="info-label">性别</span>
+            <span class="info-value">{{ site.resume_gender }}</span>
+          </div>
+          {% endif %}
+          {% if site.resume_birthdate %}
+          <div class="info-item">
+            <span class="info-label">出生日期</span>
+            <span class="info-value">{{ site.resume_birthdate }}</span>
+          </div>
+          {% endif %}
+          {% if site.resume_experience_years %}
+          <div class="info-item">
+            <span class="info-label">工作经验</span>
+            <span class="info-value">{{ site.resume_experience_years }}</span>
+          </div>
+          {% endif %}
+          {% if site.resume_education_level %}
+          <div class="info-item">
+            <span class="info-label">教育程度</span>
+            <span class="info-value">{{ site.resume_education_level }}</span>
+          </div>
+          {% endif %}
+          {% if site.resume_work_status %}
+          <div class="info-item">
+            <span class="info-label">职业状态</span>
+            <span class="info-value status-tag">{{ site.resume_work_status }}</span>
+          </div>
+          {% endif %}
+          {% if site.resume_career_industry %}
+          <div class="info-item info-item-wide">
+            <span class="info-label">期望行业</span>
+            <span class="info-value">{{ site.resume_career_industry }}</span>
+          </div>
+          {% endif %}
+          {% if site.resume_career_position %}
+          <div class="info-item">
+            <span class="info-label">期望职位</span>
+            <span class="info-value">{{ site.resume_career_position }}</span>
+          </div>
+          {% endif %}
+        </div>
+      </section>
+      <!-- end Personal Info -->
+      {% endif %}
 
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Experience</h2>
+          <h2>工作经历</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -73,7 +127,7 @@
       <!-- begin Education -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Education</h2>
+          <h2>教育背景</h2>
         </header>
 
         {% for education in site.data.education %}
@@ -101,7 +155,7 @@
       <!-- begin Projects -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Projects</h2>
+          <h2>项目经验</h2>
         </header>
 
         {% for project in site.data.projects %}
@@ -122,7 +176,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Skills</h2>
+          <h2>技能特长</h2>
         </header>
         {% for skill in site.data.skills %}
         <div class="resume-item">
@@ -140,7 +194,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Recognition</h2>
+          <h2>荣誉认证</h2>
         </header>
 
         {% for recognition in site.data.recognitions %}
@@ -160,7 +214,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Associations</h2>
+          <h2>社会组织</h2>
         </header>
 
         {% for association in site.data.associations %}
@@ -180,7 +234,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Outside Interests</h2>
+          <h2>兴趣爱好</h2>
         </header>
 
         <div class="resume-item">
@@ -200,7 +254,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Additional Links</h2>
+          <h2>联系方式</h2>
         </header>
 
         <div class="resume-item">
@@ -220,7 +274,7 @@
       <section class="content-section print-only">
 
         <header class="section-header">
-          <h2>Social Links</h2>
+          <h2>社交链接</h2>
         </header>
 
         <div class="resume-item">
@@ -232,8 +286,7 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        <p class="footer-line">周乐林 &bull; 在线简历 &bull; 基于 <a href="https://github.com/jglovier/resume-template">Jekyll Resume Template</a> 构建</p>
       </footer>
 
     </div>
