@@ -1,5 +1,27 @@
 # 项目经验
 
+# 失控风险管理系统
+- project: 失控风险管理系统
+  role: 软件开发工程师
+  duration: 2026年4月1日 &mdash; 至今
+  description: |
+    <p><strong>技术栈：</strong>Claude Code、AI-Skills、AI-Code-Review、Vben Admin、Qiankun（微前端）、Vue3、TypeScript</p>
+    <p><strong>项目职责：</strong></p>
+    <ul class="resume-item-list">
+      <li>敏捷演示与需求对齐：针对风控业务需求变更频繁的特点，负责快速迭代项目演示 Demo，利用 AI 工具链大幅缩短原型构建周期，加速业务方需求确认与产品方向对齐</li>
+      <li>复杂逻辑攻坚：结合 Claude Code 强大的上下文理解能力，负责处理复杂的制程风险计算逻辑与数据可视化渲染，降低开发门槛并提升产出效率</li>
+      <li>工程化规范建设：负责将 AI-Skills 与现有前端工程化体系深度融合，制定并推行适用于半导体风控业务的 AI 辅助开发规范，保障团队代码风格与架构的一致性</li>
+      <li>系统稳定性保障：通过 AI-Code-Review 结合人工 Review 形成双重质量防线，负责排查并修复前端潜在隐患，保障系统在产线高压环境下的稳定运行</li>
+    </ul>
+    <p><strong>项目描述：</strong>该系统是专为芯片制造过程打造的核心风控平台，旨在实时监控、预警及管理制程中的各类错误风险。系统通过整合海量生产数据与复杂业务逻辑，帮助产线工程师快速定位异常节点，降低良率损失，保障芯片制造的安全与稳定。</p>
+    <p><strong>技术成果：</strong></p>
+    <ul class="resume-item-list">
+      <li>研发效能显著提升：通过 AI-Skills 构建前端开发项目，将项目演示 Demo 的平均交付周期缩短约 40%，有效支撑了敏捷迭代节奏</li>
+      <li>代码质量大幅改善：引入 AI-Code-Review 后，代码规范拦截率达到 95% 以上，上线后的前端基础缺陷率降低了约 30%</li>
+      <li>复杂业务高效交付：借助 Claude Code 辅助重构与单元测试生成，核心风控模块的开发与测试耗时减少约 25%，保障了项目关键里程碑的按时交付</li>
+      <li>AI 研发工具链沉淀：成功将 AI 编程助手融入日常研发流，沉淀了一套可复用的“AI 辅助前端开发最佳实践”，为团队后续的技术演进与效能提升提供了标准化参考</li>
+    </ul>
+
 # 刑事技术一体化实战应用平台
 - project: 刑事技术一体化实战应用平台
   role: 开发经理
@@ -36,19 +58,6 @@
       <li>使用H5开发终端部分业务，减少终端业务操作</li>
     </ul>
     <p><strong>使用技术：</strong>Vue 及周边生态、amap、node、websocket、echarts</p>
-
-# 服务器管理系统
-- project: 服务器管理系统
-  role: Web前端
-  duration: 2018.6 &mdash; 2019.3
-  description: |
-    <p><strong>项目描述：</strong>此项目是给中国移动合作开发的用于统计监测服务器的系统，系统功能包括服务器管理、资源监测、风险预警、授权管理、资源配置、大屏监测等。</p>
-    <p><strong>项目职责：</strong></p>
-    <ul class="resume-item-list">
-      <li>根据业务逻辑与后台进行数据交互和页面开发并控制不同用户可查看的页面权限</li>
-      <li>根据业务组织研讨相关技术方案</li>
-    </ul>
-    <p><strong>使用技术：</strong>Vue 及周边生态、echarts、websocket</p>
 
 # 信通院实名认证统计查询系统
 - project: 信通院实名认证统计查询系统

@@ -1,12 +1,16 @@
 # 技能特长
 
+# AI辅助开发与编程工具
+- skill: AI辅助开发与编程工具
+  description: 熟练使用各种 AI 工具如 Claude-code、cursor 辅助编程，提升代码质量；将 AI-Skills 深度融入日常开发工作流，通过自然语言交互快速生成业务组件与页面脚手架；在团队内推行并落地 AI-Code-Review 机制，对日常代码提交进行规范检查与潜在风险扫描。
+
 # 前端框架与生态
 - skill: 前端框架与生态
   description: 熟悉 Vue 生态体系，主导过多个基于 Vue3 + TypeScript + Vite 的大型重构项目，擅长封装高复用性业务组件库，通过自定义指令和Mixin优化代码结构。
 
-# AI辅助开发与工程效能
-- skill: AI辅助开发与工程效能
-  description: AI 辅助开发实践：将 AI-Skills 深度融入日常前端开发工作流，通过自然语言交互快速生成业务组件与页面脚手架。自动化代码审查：在团队内推行并落地 AI-Code-Review 机制，对日常代码提交进行规范检查与潜在风险扫描。
+# 微前端与中后台架构
+- skill: 微前端与中后台架构
+  description: 熟练使用 Qiankun 进行微前端架构改造与日常维护，实现复杂业务模块的解耦与独立部署；熟悉 Vben Admin 等企业级中后台解决方案，能够基于成熟框架快速搭建并维护大型业务系统。
 
 # Web标准与页面构建
 - skill: Web标准与页面构建
@@ -28,9 +32,13 @@
 - skill: 多端开发与移动端
   description: 熟练使用 uni-app 进行多端及小程序统一开发；拥有丰富的 Cordova / Hybrid App 开发经验，擅长处理原生交互桥接（JSBridge）、多版本兼容及离线缓存策略。
 
+# 服务端与数据建模
+- skill: 服务端与数据建模
+  description: 具备 Node.js 服务端开发能力，可独立开发中间层服务与业务接口，承担服务端逻辑、数据聚合与接口性能治理；参与业务数据建模与数据库设计，负责核心表结构与查询优化，支撑海量业务数据的存储与分析。
+
 # 工具与工程化
 - skill: 工具与工程化
-  description: 熟练使用 git、svn 管理代码，使用 trae、copilot、qode等AI编辑器辅助开发；熟悉 Linux 常用操作，使用 esxi 等工具拆分物理服务器并部署项目；熟练使用 WebSocket 与服务端进行通信。
+  description: 熟练使用 git、svn 管理代码，使用 trae、copilot、qode 等 AI 编辑器辅助开发；熟悉 Linux 常用操作，使用 ESXi 拆分物理服务器并完成服务部署与私有化环境搭建；编写自动化脚本与调试工具，提升现场问题排查与批量配置效率；熟练使用 WebSocket 与服务端进行通信。
 
 # 国际化与特殊场景
 - skill: 国际化与复杂场景

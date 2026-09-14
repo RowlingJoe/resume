@@ -1,6 +1,6 @@
 # Site settings
-title: "周乐林 - 前端工程师简历"
-description: "10年前端开发经验，擅长Vue生态、TypeScript、数据可视化"
+title: "周乐林 - 软件开发工程师简历"
+description: "10年软件开发经验，擅长Vue生态、TypeScript、数据可视化与Node.js服务端开发"
 
 # Build settings
 markdown: kramdown
@@ -11,16 +11,16 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "周乐林"
-resume_title:                   "Web前端开发经理"
+resume_title:                   "软件开发工程师"
 
 # Personal info (from Word document)
 resume_gender:                  "男"
 resume_birthdate:               "1993.9"
 resume_experience_years:        "10年"
 resume_education_level:         "统招本科"
-resume_work_status:             "离职"
+resume_work_status:             "在职"
 resume_career_industry:         "实体/互联网/移动互联网/计算机软件"
-resume_career_position:         "Web前端"
+resume_career_position:         "软件开发工程师"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "zhoulelin0824@163.com"
@@ -32,7 +32,7 @@ resume_contact_address:         "合肥"
 resume_header_contact_info:     "合肥 • 15150610670 • zhoulelin0824@163.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>10年前端开发经验，熟练使用AI工具辅助开发，熟练掌握Vue3+TypeScript+Vite技术栈，主导过多个大型项目重构。擅长封装高复用性组件库、数据可视化开发、多端统一开发。具备团队管理经验，熟悉敏捷开发流程。有丰富的公安/刑侦类业务系统开发经验，主导过系统国际化适配。</p>"
+resume_header_intro: "<p>10年软件开发经验，熟练使用 Claude-code、cursor 等 AI 工具辅助开发，熟练掌握Vue3+TypeScript+Vite技术栈，具备Node.js服务端开发与数据库设计能力，主导过多个大型项目重构。擅长封装高复用性组件库、数据可视化开发、多端统一开发，熟悉 Qiankun 微前端架构与 Vben Admin 中后台框架，熟悉Linux环境部署与系统性能治理。具备团队管理经验，熟悉敏捷开发流程，推行并落地 AI-Code-Review 机制，沉淀 AI 辅助开发最佳实践。有丰富的公安/刑侦类业务系统与芯片制造风控平台开发经验，主导过系统国际化适配。</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
